@@ -1,2 +1,2 @@
 # thermal-processing
-A repository for processing thermal imagery from the DJI H20 series of sensors.
+A repository for extracting temperature rasters from thermal imagery (specific to the DJI H20 series).
